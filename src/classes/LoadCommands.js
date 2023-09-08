@@ -227,6 +227,8 @@ class LoadCommands {
                     console.error(e);
                 }
             }
+        }
+    }
 
     async update(debug = true) {
         for (const dp of this.paths) {
