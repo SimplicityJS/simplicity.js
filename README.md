@@ -25,4 +25,4 @@ status: online,
 time: 8
 `);
 
-builder.Load('./commands');```
+builder.Load('./commands');`
