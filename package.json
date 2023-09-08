@@ -1,0 +1,30 @@
+{
+  "name": "simplicity",
+  "version": "0.0.1",
+  "description": "Simple and customizeable package to create fully functional bots",
+  "keywords": ["discord", "bot", "simple"],
+  "author": "YoItzPhoenx/ZayDocs",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "14.0.1",
+    "@discordjs/builders": "1.6.5",
+    "@discordjs/collection": "1.5.3",
+    "@discordjs/core": "1.0.1",
+    "fs": "0.0.1-security",
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4"
+  },
+  "main": "src/main/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplicityJS/simplicity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SimplicityJS/simplicity.js/issues"
+  },
+  "homepage": "https://github.com/SimplicityJS/simplicity.js#readme"
+}
